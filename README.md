@@ -37,6 +37,10 @@ I also appreciated the opportunity to sharpen my CSS skills in making sure the c
 
 [Horiseon Website](https://torysnopl.github.io/01codeRefactor/) 
 
+## Code Source
+
+The starting code used in this assignment was provided by the bootcamp 
+
 
 
 
