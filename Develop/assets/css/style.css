@@ -185,8 +185,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.footer {
+/* Removed class for footer because it was redundant */
+footer {
     
     padding: 30px;
     clear: both;
